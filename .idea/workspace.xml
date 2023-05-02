@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8daf0f4-ba50-456f-b87a-1b031a60566a" name="Changes" comment="Finish lecture 11-07">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dslearn/cap_11_enumeracoes_e_composicao/aula_13_06_07_08_09_exercicio_excecoes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dslearn/cap_11_enumeracoes_e_composicao/aula_13_06_07_08_09_exercicio_excecoes/model/entities/Reservation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dslearn/cap_11_enumeracoes_e_composicao/aula_13_06_07_08_09_exercicio_excecoes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dslearn/cap_11_enumeracoes_e_composicao/aula_13_06_07_08_09_exercicio_excecoes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dslearn/cap_11_enumeracoes_e_composicao/aula_13_06_07_08_09_exercicio_excecoes/model/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dslearn/cap_11_enumeracoes_e_composicao/aula_13_06_07_08_09_exercicio_excecoes/model/entities/Reservation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
