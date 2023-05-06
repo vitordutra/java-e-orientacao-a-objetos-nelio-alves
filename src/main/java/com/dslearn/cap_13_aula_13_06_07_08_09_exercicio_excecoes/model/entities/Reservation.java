@@ -1,6 +1,6 @@
-package com.dslearn.cap_11_enumeracoes_e_composicao.aula_13_06_07_08_09_exercicio_excecoes.model.entities;
+package com.dslearn.cap_13_aula_13_06_07_08_09_exercicio_excecoes.model.entities;
 
-import com.dslearn.cap_11_enumeracoes_e_composicao.aula_13_06_07_08_09_exercicio_excecoes.model.exceptions.DomainException;
+import com.dslearn.cap_13_aula_13_06_07_08_09_exercicio_excecoes.model.exceptions.DomainException;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

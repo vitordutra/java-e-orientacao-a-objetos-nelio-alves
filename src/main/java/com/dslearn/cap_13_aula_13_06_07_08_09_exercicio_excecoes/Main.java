@@ -1,9 +1,7 @@
-package com.dslearn.cap_11_enumeracoes_e_composicao.aula_13_06_07_08_09_exercicio_excecoes;
+package com.dslearn.cap_13_aula_13_06_07_08_09_exercicio_excecoes;
 
-import com.dslearn.cap_11_enumeracoes_e_composicao.aula_11_07_exercicio_2.entities.Comment;
-import com.dslearn.cap_11_enumeracoes_e_composicao.aula_11_07_exercicio_2.entities.Post;
-import com.dslearn.cap_11_enumeracoes_e_composicao.aula_13_06_07_08_09_exercicio_excecoes.model.entities.Reservation;
-import com.dslearn.cap_11_enumeracoes_e_composicao.aula_13_06_07_08_09_exercicio_excecoes.model.exceptions.DomainException;
+import com.dslearn.cap_13_aula_13_06_07_08_09_exercicio_excecoes.model.entities.Reservation;
+import com.dslearn.cap_13_aula_13_06_07_08_09_exercicio_excecoes.model.exceptions.DomainException;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
